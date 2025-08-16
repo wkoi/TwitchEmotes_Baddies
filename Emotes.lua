@@ -53,7 +53,7 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\NOOOO.tga", 6, 102, 96, 102, 576, 33)
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\yippee.tga", 35, 96, 96, 96, 3360, 20)
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\clappi.tga", 29, 168, 96, 168, 2784, 33)
---    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\WAITWAITWAIT.tga", 172, 64, 64 ,64, 11008, 30)
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 6, 102, 96, 102, 576, 33)
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 6, 102, 96, 102, 576, 33)
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 6, 102, 96, 102, 576, 33)
