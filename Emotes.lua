@@ -5,6 +5,18 @@ TwitchEmotes_Baddies_Emoticons = {
     ["mhm"] = "mhm",
     ["GLORPSHIT"] = "GLORPSHIT",
     ["Shoo"] = "Shoo",
+    ["NOOOO"] = "NOOOO",
+    ["yippee"] = "yippee",
+    ["clappi"] = "clappi",
+    ["WAITWAITWAIT"] = "WAITWAITWAIT",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
 
 }
 
@@ -15,6 +27,18 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     ["mhm"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\mhm.tga:32:32",
     ["GLORPSHIT"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\GLORPSHIT.tga:32:32",
     ["Shoo"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\Shoo.tga:32:32",
+    ["NOOOO"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\NOOOO.tga:32:32",
+    ["yippee"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\yippee.tga:32:32",
+    ["clappi"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\clappi.tga:32:32",
+    ["WAITWAITWAIT"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\WAITWAITWAIT.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
 
 }
 
@@ -26,3 +50,15 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\mhm.tga", 9, 74, 64, 74, 576, 5)
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\GLORPSHIT.tga", 75, 92, 64, 92, 4800,33.33)
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\Shoo.tga", 45, 74, 64, 74, 2880, 16)
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\NOOOO.tga", 6, 102, 96, 102, 576, 33)
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\yippee.tga", 35, 96, 96, 96, 3360, 20)
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\clappi.tga", 29, 168, 96, 168, 2784, 33)
+--    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 6, 102, 96, 102, 576, 33)
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 6, 102, 96, 102, 576, 33)
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 6, 102, 96, 102, 576, 33)
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 6, 102, 96, 102, 576, 33)
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 6, 102, 96, 102, 576, 33)
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 6, 102, 96, 102, 576, 33)
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 6, 102, 96, 102, 576, 33)
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 6, 102, 96, 102, 576, 33)
