@@ -36,6 +36,9 @@ TwitchEmotes_Baddies_Emoticons = {
     [""] = "",
     [""] = "",
     [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
 
 }
 
@@ -72,6 +75,12 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     ["CatAHomie"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\CatAHomie.tga:32:32",
     ["LockedIn"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\LockedIn.tga:32:32",
     ["AAAA"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\AAAA.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
 
