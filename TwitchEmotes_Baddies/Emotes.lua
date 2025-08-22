@@ -31,11 +31,8 @@ TwitchEmotes_Baddies_Emoticons = {
     ["CatAHomie"] = "CatAHomie",
     ["LockedIn"] = "LockedIn",
     ["AAAA"] = "AAAA",
-    [""] = "",
-    [""] = "",
-    [""] = "",
-    [""] = "",
-    [""] = "",
+    ["petbabey"] = "petbabey",
+    ["babey"] = "babey",
     [""] = "",
     [""] = "",
     [""] = "",
@@ -75,12 +72,8 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     ["CatAHomie"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\CatAHomie.tga:32:32",
     ["LockedIn"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\LockedIn.tga:32:32",
     ["AAAA"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\AAAA.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    ["petbabey"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\petbabey.tga:32:32",
+    ["babey"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\babey.tga:32:32",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
 
@@ -104,4 +97,5 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\CatAHomie.tga", 20, 105, 96, 105, 1920, 10)
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\LockedIn.tga", 18, 105, 96, 105, 1728, 10)
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\AAAA.tga", 7, 96, 96, 96, 672, 30)
+    TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\petbabey.tga", 5, 112, 112, 112, 560, 14)
     TwitchEmotesBaddies_AddAnimation("Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga", 0, 0, 0, 0, 0, 0)
